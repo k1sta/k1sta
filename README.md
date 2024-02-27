@@ -34,6 +34,11 @@
   <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
   <code><img title="GIT" height="50" src="images/git.png"></code>
 
+### Currently learning:
+- ⚙️ Low-Level programming
+- 🔐 Criptography
+- 🌍 Network Security
+
 
 
 
