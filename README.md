@@ -12,7 +12,7 @@
 
 ### Personal stuff:
 
-<img width="33%" align="right" alt="Github" src="images/rei-floating.gif" />
+<img width="33%" align="right" alt="Github" src="images/rei-floating2.gif" />
 
 - 🔬 I'm looking for a project in the Cybersecurity area;
 - 👨🏽‍💻 Currently doing CTF's 4fun;
