@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=35F702&random=false&width=435&lines=hello%2C+fellow+human;this+is+pedro+k.+kitagawa;nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=35F702&random=false&width=435&lines=hello%2C+fellow+human;this+is+k1sta;nice+to+meet+you!)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-kitagawa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pedrokurykita@gmail.com)
