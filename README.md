@@ -14,7 +14,7 @@
 
 <img width="33%" align="right" alt="Github" src="images/rei-floating2.gif" />
 
-- 🔬 I'm looking for a project in the Cybersecurity area;
+- 🔬 I'm looking for a research topic in the Cybersecurity area;
 - 👨🏽‍💻 Currently doing CTF's 4fun;
 - 💬 Ask me about anything, I would be glad to help!
 - 🎲 Fun fact: I love Tabletop RPG's!
