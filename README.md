@@ -37,7 +37,7 @@
 ### Currently learning:
 - ⚙️ Low-Level programming
 - 💾 Pwning
--  Network Security
+- 🌎 Network Security
 
 
 
