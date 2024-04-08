@@ -14,7 +14,7 @@
 
 <img width="33%" align="right" alt="Github" src="images/rei-floating2.gif" />
 
-- 🔬 I'm looking for a research topic in the Cybersecurity area;
+- 🔬 Researching x86 Assembly and Pwning;
 - 👨🏽‍💻 Currently doing CTF's 4fun;
 - 💬 Ask me about anything, I would be glad to help!
 - 🎲 Fun fact: I love Tabletop RPG's!
@@ -36,8 +36,8 @@
 
 ### Currently learning:
 - ⚙️ Low-Level programming
-- 🔐 Criptography
-- 🌍 Network Security
+- 💾 Pwning
+-  Network Security
 
 
 
