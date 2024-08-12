@@ -10,16 +10,22 @@
 
 #
 
+
+<img width="33%" align="right" alt="Github" src="images/rei-floating2.gif" />
+
 ```
-my-app/
+me/
+│ 
 ├─ personal_stuff/
 │  ├─ currently_focusing_on_reverse_engineering_and_pwning
 │  ├─ playing_CTF's_4fun
 │  ├─ i_like_tabletop_rpg'g
+│ 
 ├─ interested_on/
 │  ├─ computer_networks
 │  ├─ low-level_programming
 │  ├─ cybersecurity
+│ 
 ├─ knowledge_and_tools/
 │  ├─ C.c
 │  ├─ C++.cpp
