@@ -10,49 +10,23 @@
 
 #
 
-### Personal stuff:
-
-<img width="33%" align="right" alt="Github" src="images/rei-floating2.gif" />
-
-- 🔬 Researching x86 Assembly and Pwning;
-- 👨🏽‍💻 Currently doing CTF's 4fun;
-- 💬 Ask me about anything, I would be glad to help!
-- 🎲 Fun fact: I love Tabletop RPG's!
-- 😄 Pronouns: he/him
-
-
-
-### Knowledge and Tools:
-
-  <code><img title="C" height="50" src="images/c.png"></code>
-  <code><img title="C++" height="50" src="images/c++.png"></code>
-  <code><img title="Python" height="50" src="images/python.svg"></code>
-  <code><img title="Java" height="50" src="images/java.svg"></code>
-  
-  <code><img title="Bash" height="50" src="images/bash.svg"></code>
-  <code><img title="Linux" height="50" src="images/Tux.svg"></code>
-  <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
-  <code><img title="GIT" height="50" src="images/git.png"></code>
-
-### Currently learning:
-- ⚙️ Low-Level programming
-- 💾 Pwning
-- 🌎 Network Security
-
-
-
-
-<!--
-**k1sta/k1sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+my-app/
+├─ personal_stuff/
+│  ├─ currently_focusing_on_reverse_engineering_and_pwning
+│  ├─ playing_CTF's_4fun
+│  ├─ i_like_tabletop_rpg'g
+├─ interested_on/
+│  ├─ computer_networks
+│  ├─ low-level_programming
+│  ├─ cybersecurity
+├─ knowledge_and_tools/
+│  ├─ C.c
+│  ├─ C++.cpp
+│  ├─ java.java
+│  ├─ x86_assembly.asm
+│  ├─ bash.sh
+│  ├─ git.git
+│  ├─ python.py
+│  ├─ docker.dockerfile
+```
