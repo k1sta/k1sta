@@ -5,7 +5,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:pedrokitagawa@hotmail.com.br)
 
 <p>
-  Hi! I'm Pedro K. Kitagawa, a Computer Science student from Brazil and member of GRIS-UFRJ (Security Incident Response Group of Federal University of Rio de Janeiro) and RAVEL (High-Velocity Networks Laboratory).
+  Hi! I'm Pedro K. Kitagawa, an undergrad Computer Science student from Brazil and member of GRIS-UFRJ (Security Incident Response Group of Federal University of Rio de Janeiro) and RAVEL (High-Velocity Networks Laboratory).
 </p>
 
 #
