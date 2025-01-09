@@ -18,8 +18,8 @@ me/
 │ 
 ├─ personal_stuff/
 │  ├─ currently_focusing_on_reverse_engineering_and_pwning
-│  ├─ playing_CTF's_4fun
-│  ├─ i_like_tabletop_rpg'g
+│  ├─ playing_CTFs_4fun
+│  ├─ i_like_tabletop_rpgs
 │ 
 ├─ interested_on/
 │  ├─ computer_networks
