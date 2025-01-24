@@ -30,7 +30,7 @@ me/
 │  ├─ C.c
 │  ├─ C++.cpp
 │  ├─ java.java
-│  ├─ x86_assembly.asm
+│  ├─ x86-64_assembly.asm
 │  ├─ bash.sh
 │  ├─ git.git
 │  ├─ python.py
