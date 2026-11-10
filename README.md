@@ -5,7 +5,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:pedrokitagawa@hotmail.com.br)
 
 <p>
-  Hi! I'm Pedro, an undergrad Computer Science student from Brazil, director of GRIS-UFRJ (Security Incident Response Group of Federal University of Rio de Janeiro) and research assistant at RAVEL (High-Velocity Networks Laboratory).
+    Hi! I'm Pedro, an Offensive Security Analyst, Council Member of GRIS-UFRJ (Security Incident Response Group of Federal University of Rio de Janeiro) and an RE, OS and PWN enthusiast. This is obsolete, do not consider anything below :) (didn't took the time to rewrite it yet)
 </p>
 
 #
